@@ -84,3 +84,4 @@ If you're building in AI Agents, RAG, LLM platforms, or large-scale integration 
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-Integration-green)
 ![Machine Learning](https://img.shields.io/badge/ML-Engineer-orange)
 ![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
+![Hugging_Face](https://img.shields.io/badge/Hugging-Face-yellow)
